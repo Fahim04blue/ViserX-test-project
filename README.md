@@ -2,4 +2,6 @@
 
 # [Live Link](https://viser-x-test-project.vercel.app/)
 
+Techlogies used: React,Tailwind Css
+
 ![alt text](https://github.com/Fahim04blue/ViserX-test-project/blob/master/src/asset/images/ViserX%20test%20Project.png)

@@ -7,6 +7,7 @@ const Navbar = () => {
       <div>
         <img src={logo} alt="logo" />
       </div>
+
       <ul className="flex justify-end items-center gap-6">
         <li>Home</li>
         <div className="flex gap-1">

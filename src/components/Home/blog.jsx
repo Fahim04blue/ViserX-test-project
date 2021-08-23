@@ -26,8 +26,8 @@ const Blog = () => {
               {card.title}
             </h1>
             <p className="mt-5 ml-9 text-sm text-blueBayoux">{card.subtitle}</p>
-            <div className="flex items-center gap-3 mt-5 ml-9">
-              <span className="font-bold text-oceanGreen">Read More</span>
+            <div className="flex items-center gap-3 mt-5 ml-9 pb-6">
+              <span className="font-bold text-oceanGreen ">Read More</span>
               <span>
                 <AiOutlineArrowRight color="#36B37E" />
               </span>

@@ -17,7 +17,7 @@ const ProductCards = () => {
           <p className="card__heading">Modena Juice & Vege Blender Silver</p>
           <div className="card__subHeading">
             <p className="font-semibold leading-5">$1,500.00</p>
-            <p className="line-through text-lineThrough">$2,000.00</p>
+            <p className="line-through text-santasGray">$2,000.00</p>
           </div>
           <div className="flex justify-center">
             <button className="card__btn">Buy Now</button>
@@ -25,7 +25,7 @@ const ProductCards = () => {
         </div>
       </div>
 
-      <div className="rounded-lg bg-cardHover border-gray-200 w-64 h-96 overflow-hidden">
+      <div className="rounded-lg bg-appleGreen border-gray-200 w-64 h-96 overflow-hidden">
         <div className="pt-3 flex justify-end pr-3">
           <img src={heart2} alt="" />
         </div>
@@ -36,7 +36,7 @@ const ProductCards = () => {
           <p className="card__heading">Leica M3 with APO- Summicron 50mm 1:2</p>
           <div className="card__subHeading">
             <p className="font-semibold leading-5">$1,500.00</p>
-            <p className="line-through text-lineThrough">$2,000.00</p>
+            <p className="line-through text-santasGray">$2,000.00</p>
           </div>
           <div className="flex justify-center">
             <button className="px-20 py-2 mt-5 bg-oceanGreen text-white  rounded">
@@ -59,7 +59,7 @@ const ProductCards = () => {
           </p>
           <div className="card__subHeading">
             <p className="font-semibold leading-5">$1,500.00</p>
-            <p className="line-through text-lineThrough">$2,000.00</p>
+            <p className="line-through text-santasGray">$2,000.00</p>
           </div>
           <div className="flex justify-center">
             <button className="card__btn">Buy Now</button>
@@ -71,9 +71,9 @@ const ProductCards = () => {
         <p className="card__heading text-white">Apple Watch 4 2020</p>
         <div className="mt-3 ">
           <p className="text-white flex justify-center gap-2 ">
-            <span className="card__specail--clock">10</span> :
-            <span className="card__specail--clock">25</span> :
-            <span className="card__specail--clock">54</span>
+            <span className="card__special--clock">10</span> :
+            <span className="card__special--clock">25</span> :
+            <span className="card__special--clock">54</span>
           </p>
         </div>
         <div className="flex justify-center mt-10">
@@ -97,7 +97,7 @@ const ProductCards = () => {
           </p>
           <div className="card__subHeading">
             <p className="font-semibold leading-5">$1,500.00</p>
-            <p className="line-through text-lineThrough">$2,000.00</p>
+            <p className="line-through text-santasGray">$2,000.00</p>
           </div>
           <div className="flex justify-center">
             <button className="card__btn">Buy Now</button>
@@ -116,7 +116,7 @@ const ProductCards = () => {
           <p className="card__heading">Modena Juice & Vege Blender Silver</p>
           <div className="card__subHeading">
             <p className="font-semibold leading-5">$1,500.00</p>
-            <p className="line-through text-lineThrough">$2,000.00</p>
+            <p className="line-through text-santasGray">$2,000.00</p>
           </div>
           <div className="flex justify-center">
             <button className="card__btn">Buy Now</button>
@@ -135,7 +135,7 @@ const ProductCards = () => {
           <p className="card__heading">Leica M3 with APO- Summicron 50mm 1:2</p>
           <div className="card__subHeading">
             <p className="font-semibold leading-5">$1,500.00</p>
-            <p className="line-through text-lineThrough">$2,000.00</p>
+            <p className="line-through text-santasGray">$2,000.00</p>
           </div>
           <div className="flex justify-center">
             <button className="card__btn">Buy Now</button>
@@ -156,7 +156,7 @@ const ProductCards = () => {
           </p>
           <div className="card__subHeading">
             <p className="font-semibold leading-5">$1,500.00</p>
-            <p className="line-through text-lineThrough">$2,000.00</p>
+            <p className="line-through text-santasGray">$2,000.00</p>
           </div>
           <div className="flex justify-center">
             <button className="card__btn">Buy Now</button>

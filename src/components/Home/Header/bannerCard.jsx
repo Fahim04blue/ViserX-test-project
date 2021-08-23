@@ -9,6 +9,7 @@ const BannerCard = () => {
           <div>
             <img src={cardPic} alt="cardPic" />
           </div>
+
           <div>
             <span className="font-semibold leading-snug">{card.name}</span>
             <span className="block font-bold leading-5 mt-2 tracking-wide">

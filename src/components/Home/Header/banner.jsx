@@ -8,6 +8,7 @@ const Banner = () => {
   return (
     <div className="bg-porcelain">
       <Navbar />
+
       <div className="container mx-auto mt-10 flex  content-center justify-between">
         <div>
           <img src={rectangle} alt="rectangle" />
@@ -50,7 +51,9 @@ const Banner = () => {
           <img src={header} alt="header" />
         </div>
       </div>
+
       <BannerCard />
+
       <div className="grid grid-cols-3 container mx-auto gap-10 pb-10">
         <div className="white__bar"></div>
         <div class="h-0.5 relative w-80 rounded overflow-hidden">

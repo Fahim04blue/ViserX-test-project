@@ -10,10 +10,11 @@ import { IoIosArrowForward } from "react-icons/io";
 const Categories = () => {
   return (
     <div className="mt-72 container mx-auto">
-      <div className="  divide-y-2 divide-solid divide-partition">
+      <div className="  divide-y-2 divide-solid divide-athensGray">
         <div></div>
         <div></div>
       </div>
+
       <div className=" grid grid-cols-6 mt-20  gap-12 ">
         {categoryCard.map((card) => (
           <div className="category__card ">
@@ -55,20 +56,24 @@ const Categories = () => {
             </div>
           </div>
         ))}
+
         <div className="flex justify-between items-center">
           <h1 className="text-oceanGreen font-bold">Leaderboard details</h1>
           <IoIosArrowForward color=" #36B37E" />
         </div>
+
         <div className="flex justify-between items-center">
           <h1 className="text-oceanGreen font-bold">Leaderboard details</h1>
           <IoIosArrowForward color=" #36B37E" />
         </div>
+
         <div className="flex justify-between items-center">
           <h1 className="text-oceanGreen font-bold">Leaderboard details</h1>
           <IoIosArrowForward color=" #36B37E" />
         </div>
       </div>
-      <div className=" mt-24  divide-y-2 divide-solid divide-partition">
+
+      <div className=" mt-24  divide-y-2 divide-solid divide-athensGray">
         <div></div>
         <div></div>
       </div>

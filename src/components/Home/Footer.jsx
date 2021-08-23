@@ -16,6 +16,7 @@ const Footer = () => {
             <img src={rectangle8} alt="" />
           </div>
         </div>
+
         <div className="flex flex-col gap-10">
           <h1 className="footer__heading">Product</h1>
           <ul className="flex flex-col gap-4">
@@ -26,6 +27,7 @@ const Footer = () => {
             <li>Pricing</li>
           </ul>
         </div>
+
         <div className="flex flex-col gap-10">
           <h1 className="footer__heading">Services</h1>
           <ul className="flex flex-col gap-4">
@@ -36,6 +38,7 @@ const Footer = () => {
             <li>UI Kit</li>
           </ul>
         </div>
+
         <div className="flex flex-col gap-10">
           <h1 className="footer__heading">Company</h1>
           <ul className="flex flex-col gap-4">
@@ -45,6 +48,7 @@ const Footer = () => {
             <li>Careers</li>
           </ul>
         </div>
+
         <div className="flex flex-col gap-10">
           <h1 className="footer__heading">More</h1>
           <ul className="flex flex-col gap-4">
@@ -54,6 +58,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
+
       <div className="mt-20 pb-10 ">
         <div className="flex justify-center">
           <img src={blueheart} alt="" />

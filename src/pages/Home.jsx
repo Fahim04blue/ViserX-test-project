@@ -1,4 +1,5 @@
 import Blog from "components/Home/blog";
+import Footer from "components/Home/Footer";
 import GetApp from "components/Home/getapp";
 import Banner from "components/Home/Header/banner";
 import Categories from "components/Home/Hot Items/categories";
@@ -14,6 +15,7 @@ const Home = () => {
       <Categories />
       <Blog />
       <GetApp />
+      <Footer />
     </div>
   );
 };

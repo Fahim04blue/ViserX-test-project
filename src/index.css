@@ -60,3 +60,7 @@ body {
 .sold__category {
   @apply text-2xl font-bold text-nileBlue font-heading;
 }
+
+.footer__heading {
+  @apply text-lg font-heading text-nileBlue font-bold;
+}
